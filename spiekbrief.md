@@ -27,3 +27,10 @@ Zo ziet een teamgenoot meteen welk bestand je hebt aangepast en wat er nieuw is,
 ## 3. Gitignore
 
 .gitignore is gewoon een simpel tekstbestandje in je projectmap waarin je een lijstje maakt van bestanden en mappen
+
+
+## 4. Pull
+
+Ik heb net online op GitHub de README aangepast en die verandering daarna met git pull binnengehaald op mijn eigen computer.
+
+Aan het begin van elke les doe ik daarom eerst een pull, zodat ik meteen in de nieuwste versie werk en geen fouten of foutmeldingen krijg.
