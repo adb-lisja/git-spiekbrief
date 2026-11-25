@@ -11,26 +11,3 @@ push: Hiermee stuur je jouw opgeslagen aanpassingen door naar GitHub, zodat ze o
 pull: Hiermee haal je de nieuwste aanpassingen van je teamgenoten van GitHub binnen naar jouw eigen computer.
 
 
-## 2. Een goed commitbericht
-
-goed:
-Spiekbrief: uitleg over .gitignore toegevoegd
-
-slecht:
-update (of aanpassingen)
-
-waarom deze beter is:
-Zo ziet een teamgenoot meteen welk bestand je hebt aangepast en wat er nieuw is, zonder dat hij alles eerst hoeft te openen. Dat maakt het later ook veel makkelijker om een foutje terug te zoeken of ongedaan te maken.
-
-
-
-## 3. Gitignore
-
-.gitignore is gewoon een simpel tekstbestandje in je projectmap waarin je een lijstje maakt van bestanden en mappen
-
-
-## 4. Pull
-
-Ik heb net online op GitHub de README aangepast en die verandering daarna met git pull binnengehaald op mijn eigen computer.
-
-Aan het begin van elke les doe ik daarom eerst een pull, zodat ik meteen in de nieuwste versie werk en geen fouten of foutmeldingen krijg.
