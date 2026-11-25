@@ -48,3 +48,9 @@ Branch: Een aparte zijweg of kopie waarin je veilig iets nieuws bouwt, zonder aa
 Main: Blijft altijd de werkende versie, omdat je nieuwe dingen pas samenvoegt als ze echt af zijn en werken.
 
 Pull request: Een verzoek om jouw nieuwe branch te checken en samen te voegen met de hoofdversie.
+
+
+## 7. Mijn conflict
+
+Op het begin vond ik de instructies moeilijk omdat ik de les niet had gehad en had de cursus
+niet nu ik die wel heb gaat het goed.
