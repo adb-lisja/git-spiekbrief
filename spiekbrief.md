@@ -21,3 +21,9 @@ update (of aanpassingen)
 
 waarom deze beter is:
 Zo ziet een teamgenoot meteen welk bestand je hebt aangepast en wat er nieuw is, zonder dat hij alles eerst hoeft te openen. Dat maakt het later ook veel makkelijker om een foutje terug te zoeken of ongedaan te maken.
+
+
+
+## 3. Gitignore
+
+.gitignore is gewoon een simpel tekstbestandje in je projectmap waarin je een lijstje maakt van bestanden en mappen
