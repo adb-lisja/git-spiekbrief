@@ -39,3 +39,12 @@ Aan het begin van elke les doe ik daarom eerst een pull, zodat ik meteen in de n
 ## 5. Terugdraaien
 
 Git werkt gelijk een log boek dus alles van je geschiedenis blijft staan.
+
+
+## 6. Branches en pull requests
+
+Branch: Een aparte zijweg of kopie waarin je veilig iets nieuws bouwt, zonder aan je echte code te zitten.
+
+Main: Blijft altijd de werkende versie, omdat je nieuwe dingen pas samenvoegt als ze echt af zijn en werken.
+
+Pull request: Een verzoek om jouw nieuwe branch te checken en samen te voegen met de hoofdversie.
